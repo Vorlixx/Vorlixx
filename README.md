@@ -23,6 +23,5 @@ CyberSecurity student, focused on building my skills in offensive security.
 - 📝 [HTB-Chaogen-Writeup](https://github.com/Vorlixx/HTB-Chaogen-Writeup) — Hack The Box write-up and automated solver
 
 ## 📫 Reach Me
-- Discord: `your_username` <!-- kendi discord kullanıcı adını yaz, örn. kito#1234 veya yeni sistemde @kito -->
-- LinkedIn: (add if you have one)
-- Email: (add if you have one)
+- Discord: `your_username` <!-- vorlixx_83 -->
+- Email: kito.00283@gmail.com
