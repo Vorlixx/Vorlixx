@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=220&section=header&text=Hi%20There,%20I'm%20Kito%20%F0%9F%91%8B&fontSize=42&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20%7C%20CyberSecurity%20Student&descAlignY=58&descSize=18&descColor=cccccc" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Kito banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Breaking+things+to+understand+them...;Building+recon+%26+vuln-scan+tools...;Hack+The+Box+enthusiast...;Always+learning+offensive+security...&font=Fira+Code&center=true&width=600&height=45&color=00ff9c&vCenter=true&size=22&pause=1500" />
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vorlixx&color=00ff9c&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Vorlixx?style=flat-square&color=00ff9c&labelColor=0d1117)
 
 </div>
 
 <br>
-
-<img align="right" width="330" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/img/hacker.gif" alt="hacker gif" />
 
 ## 🕵️ About Me
 
@@ -20,8 +21,6 @@ mindset:   "Sistemleri anlamanın en iyi yolu onları kırmaktır."
 ```
 
 I'm a **CyberSecurity student** sharpening my skills in offensive security — recon, exploitation, and reporting. I like building my own tooling instead of just relying on off-the-shelf scanners.
-
-<br clear="right"/>
 
 ---
 
@@ -55,21 +54,6 @@ I'm a **CyberSecurity student** sharpening my skills in offensive security — r
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Vorlixx/subdomain-recon-tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vorlixx&repo=subdomain-recon-tool&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=cccccc" />
-</a>
-<a href="https://github.com/Vorlixx/vuln_scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vorlixx&repo=vuln_scanner&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=cccccc" />
-</a>
-<br>
-<a href="https://github.com/Vorlixx/HTB-Chaogen-Writeup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vorlixx&repo=HTB-Chaogen-Writeup&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=cccccc" />
-</a>
-
-</div>
-
 - 🔍 **[subdomain-recon-tool](https://github.com/Vorlixx/subdomain-recon-tool)** — crt.sh passive enum + DNS brute-force + port scanning + fingerprinting, JSON/HTML reporting
 - 🛡️ **[vuln_scanner](https://github.com/Vorlixx/vuln_scanner)** — HTTP security headers, TCP port scanning, OWASP checks, PDF reporting
 - 📝 **[HTB-Chaogen-Writeup](https://github.com/Vorlixx/HTB-Chaogen-Writeup)** — Hack The Box write-up and automated solver
@@ -80,12 +64,16 @@ I'm a **CyberSecurity student** sharpening my skills in offensive security — r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vorlixx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=cccccc" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vorlixx&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=cccccc" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vorlixx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=cccccc&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vorlixx&layout=compact&hide=jupyter+notebook&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=cccccc" width="38%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vorlixx&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="60%"/>
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Vorlixx&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="60%"/>
 
 </div>
+
+> Grafikler yüklenmezse: bunlar canlı, dış servislerden (vercel/demolab) beslenen görüntülerdir; GitHub sayfayı yenilediğinde (Ctrl+Shift+R) veya birkaç saniye sonra normalde gelirler.
 
 ---
 
@@ -100,4 +88,6 @@ I'm a **CyberSecurity student** sharpening my skills in offensive security — r
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer" width="100%"/>
+<div align="center">
+<sub>⚡ built for breaking things, not just reading about them ⚡</sub>
+</div>
