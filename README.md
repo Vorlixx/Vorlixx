@@ -1,4 +1,14 @@
+<div align="center">
 
+<img src="./banner.svg" width="100%" alt="KITO — classified operator dossier banner"/>
+
+<br>
+
+<a href="https://github.com/Vorlixx?tab=followers"><img src="https://img.shields.io/github/followers/Vorlixx?style=flat-square&color=00ff9c&labelColor=0d1117&label=FOLLOWERS" alt="followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=Vorlixx&color=00ff9c&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
+<a href="https://github.com/Vorlixx/kito-portfolio"><img src="https://img.shields.io/badge/WEB-kito--portfolio-0d1117?style=flat-square&logo=aboutdotme&logoColor=00ff9c" alt="portfolio"/></a>
+
+<br><br>
 
 <img src="./terminal.svg" width="100%" alt="kito@kali whoami terminal"/>
 
@@ -61,11 +71,8 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vorlixx&bg_color=0d1117&color=79d9b6&line=00ff9c&point=ff2e63&area=true&area_color=00b374&hide_border=true&custom_title=ACTIVITY%20SIGNAL%20%E2%80%94%20LAST%20YEAR" width="100%" alt="activity graph"/>
+<img src="./activity.svg" width="100%" alt="signal scope"/>
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vorlixx&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="trophies"/>
 
 </div>
 
