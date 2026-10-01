@@ -1,14 +1,4 @@
-<div align="center">
 
-<img src="./banner.svg" width="100%" alt="KITO — classified operator dossier banner"/>
-
-<br>
-
-<a href="https://github.com/Vorlixx?tab=followers"><img src="https://img.shields.io/github/followers/Vorlixx?style=flat-square&color=00ff9c&labelColor=0d1117&label=FOLLOWERS" alt="followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=Vorlixx&color=00ff9c&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
-<a href="https://github.com/Vorlixx/kito-portfolio"><img src="https://img.shields.io/badge/WEB-kito--portfolio-0d1117?style=flat-square&logo=aboutdotme&logoColor=00ff9c" alt="portfolio"/></a>
-
-<br><br>
 
 <img src="./terminal.svg" width="100%" alt="kito@kali whoami terminal"/>
 
