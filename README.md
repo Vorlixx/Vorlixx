@@ -25,7 +25,7 @@
 </tr></table>
 </div>
 
-> *"Sistemleri anlamanın en iyi yolu onları kırmaktır."* — **kito**
+> *"To truly understand a system, you must be willing to break it."* — **Kito**
 
 <div align="center">
 
