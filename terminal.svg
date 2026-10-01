@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" font-family="ui-monospace,'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace">
+<defs>
+<filter id="tg" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="1.2" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<style>
+.ln{opacity:0;animation:lin 16s linear infinite}
+@keyframes lin{0%{opacity:0}2%{opacity:1}90%{opacity:1}96%,100%{opacity:0}}
+.cur{animation:cur 1.05s steps(1) infinite}
+@keyframes cur{0%,49%{opacity:1}50%,100%{opacity:0}}
+.wglow{animation:wglow 5s ease-in-out infinite}
+@keyframes wglow{0%,100%{opacity:0.5}50%{opacity:1}}
+</style>
+</defs>
+
+<rect x="1" y="1" width="878" height="338" rx="14" fill="#0a0f14" stroke="#1c3a2c" stroke-width="1.5"/>
+<rect x="2" y="2" width="876" height="33" rx="13" fill="#0e161c"/>
+<rect x="2" y="20" width="876" height="15" fill="#0e161c"/>
+<circle cx="24" cy="19" r="5.5" fill="#ff5f56"/>
+<circle cx="46" cy="19" r="5.5" fill="#ffbd2e"/>
+<circle cx="68" cy="19" r="5.5" fill="#27c93f"/>
+<text x="92" y="23.5" font-size="13" fill="#7d8f99">kito@kali: ~/dossier — recon shell</text>
+<text x="856" y="23.5" font-size="12" fill="#3f6f5a" text-anchor="end" class="wglow">● live</text>
+
+<g font-size="15">
+<text x="28" y="70" class="ln" style="animation-delay:0s"><tspan fill="#00ff9c">┌──(</tspan><tspan fill="#5ccfe6">kito@kali</tspan><tspan fill="#00ff9c">)-[</tspan><tspan fill="#ffd166">~</tspan><tspan fill="#00ff9c">]</tspan></text>
+<text x="28" y="96" class="ln" style="animation-delay:0.42s"><tspan fill="#00ff9c">└─$ </tspan><tspan fill="#e6f7ef">whoami</tspan></text>
+<text x="28" y="122" class="ln" style="animation-delay:0.84s"><tspan fill="#7ee787">  &gt; kito</tspan><tspan fill="#9ec9b4"> — CyberSecurity Student // offensive security</tspan></text>
+<text x="28" y="148" class="ln" style="animation-delay:1.26s"><tspan fill="#00ff9c">└─$ </tspan><tspan fill="#e6f7ef">./init_recon.sh --target=career</tspan></text>
+<text x="28" y="174" class="ln" style="animation-delay:1.68s"><tspan fill="#7ee787">[+]</tspan><tspan fill="#c9d1d9"> focus     : recon · exploitation · reporting</tspan></text>
+<text x="28" y="200" class="ln" style="animation-delay:2.1s"><tspan fill="#7ee787">[+]</tspan><tspan fill="#c9d1d9"> stack     : python · bash · powershell · go (learning)</tspan></text>
+<text x="28" y="226" class="ln" style="animation-delay:2.52s"><tspan fill="#7ee787">[+]</tspan><tspan fill="#c9d1d9"> arsenal   : kali linux · burp suite · nmap · custom tooling</tspan></text>
+<text x="28" y="252" class="ln" style="animation-delay:2.94s"><tspan fill="#7ee787">[+]</tspan><tspan fill="#c9d1d9"> playground: hackthebox — active duty</tspan></text>
+<text x="28" y="278" class="ln" style="animation-delay:3.36s"><tspan fill="#00e5ff">[OK]</tspan><tspan fill="#c9d1d9"> status    : advanced ad-pentesting in progress</tspan></text>
+<text x="28" y="304" class="ln" style="animation-delay:3.78s"><tspan fill="#00ff9c">└─$ </tspan><tspan fill="#e6f7ef">./resume_mission.sh</tspan></text>
+</g>
+<rect x="196" y="292" width="10" height="16" fill="#00ff9c" filter="url(#tg)" class="cur"/>
+</svg>

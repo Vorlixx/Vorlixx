@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="110" viewBox="0 0 880 110" font-family="ui-monospace,'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace">
+<defs>
+<filter id="fg" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="1.6" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<style>
+.flick{animation:flick 5s steps(1) infinite}
+@keyframes flick{0%,91%,100%{opacity:1}92%{opacity:0.3}94%{opacity:1}96%{opacity:0.55}}
+.bar{transform-origin:50% 100%;animation:bar 1.4s ease-in-out infinite}
+@keyframes bar{0%,100%{transform:scaleY(0.35)}50%{transform:scaleY(1)}}
+</style>
+</defs>
+
+<text x="440" y="34" font-size="15" letter-spacing="4" text-anchor="middle" fill="#00ff9c" filter="url(#fg)" class="flick">[ EOF — SIGNAL TERMINATED ]</text>
+
+<g fill="#00ff9c">
+<rect x="396" y="70" width="8" height="10" rx="1.5" class="bar" style="animation-delay:0s"/>
+<rect x="409" y="64" width="8" height="16" rx="1.5" class="bar" style="animation-delay:0.15s"/>
+<rect x="422" y="58" width="8" height="22" rx="1.5" class="bar" style="animation-delay:0.3s"/>
+<rect x="435" y="52" width="8" height="28" rx="1.5" class="bar" style="animation-delay:0.45s"/>
+<rect x="448" y="46" width="8" height="34" rx="1.5" class="bar" style="animation-delay:0.6s"/>
+<rect x="461" y="58" width="8" height="22" rx="1.5" class="bar" style="animation-delay:0.75s"/>
+<rect x="474" y="64" width="8" height="16" rx="1.5" class="bar" style="animation-delay:0.9s"/>
+</g>
+
+<text x="440" y="100" font-size="11" fill="#79d9b6" opacity="0.8" text-anchor="middle">© 2026 KITO // VX-257382783 — KEEP RECONING · NO LOGS, NO TRACE</text>
+</svg>

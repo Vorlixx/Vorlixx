@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" font-family="ui-monospace,'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace">
+<defs>
+<filter id="ng" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="1.6" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<style>
+.node{animation:nodepulse 3s ease-in-out infinite}
+@keyframes nodepulse{0%,100%{stroke-opacity:0.9}50%{stroke-opacity:0.35}}
+.pk{opacity:0.9;filter:url(#ng)}
+.cur{animation:cur 1.05s steps(1) infinite}
+@keyframes cur{0%,49%{opacity:1}50%,100%{opacity:0}}
+</style>
+</defs>
+
+<rect x="1" y="1" width="878" height="238" rx="14" fill="#0a0f14" stroke="#1c3a2c" stroke-width="1.5"/>
+
+<text x="24" y="34" font-size="14" letter-spacing="2" fill="#00ff9c">⬢ OPS NETWORK — DEPLOYED SYSTEMS</text>
+<text x="856" y="34" font-size="11" fill="#00e5ff" text-anchor="end" class="cur">PACKETS: LIVE</text>
+
+<g stroke="#16463a" stroke-width="1.5">
+<line x1="440" y1="135" x2="440" y2="66"/>
+<line x1="440" y1="135" x2="165" y2="96"/>
+<line x1="440" y1="135" x2="165" y2="180"/>
+<line x1="440" y1="135" x2="715" y2="96"/>
+<line x1="440" y1="135" x2="715" y2="180"/>
+</g>
+
+<circle r="3.4" fill="#00e5ff" class="pk"><animateMotion dur="2.1s" repeatCount="indefinite" path="M440,135 L440,66"/></circle>
+<circle r="3.4" fill="#00ff9c" class="pk"><animateMotion dur="2.7s" begin="0.4s" repeatCount="indefinite" path="M165,96 L440,135"/></circle>
+<circle r="3.4" fill="#00e5ff" class="pk"><animateMotion dur="2.4s" begin="0.9s" repeatCount="indefinite" path="M440,135 L165,180"/></circle>
+<circle r="3.4" fill="#00ff9c" class="pk"><animateMotion dur="2.9s" begin="0.2s" repeatCount="indefinite" path="M440,135 L715,96"/></circle>
+<circle r="3.4" fill="#00e5ff" class="pk"><animateMotion dur="2.3s" begin="1.3s" repeatCount="indefinite" path="M715,180 L440,135"/></circle>
+
+<path d="M440,101 L469.4,118 L469.4,152 L440,169 L410.6,152 L410.6,118 Z" fill="#0f231a" stroke="#00ff9c" stroke-width="2" filter="url(#ng)"/>
+<text x="440" y="133" font-size="14" font-weight="700" fill="#eafff4" text-anchor="middle">KITO</text>
+<text x="440" y="149" font-size="9" fill="#79d9b6" text-anchor="middle">CORE</text>
+
+<g>
+<rect x="365" y="44" width="150" height="44" rx="9" fill="#0d1b16" stroke="#1f6f4a" stroke-width="1.5" class="node"/>
+<text x="440" y="62" font-size="12.5" fill="#d6ffef" text-anchor="middle">PORTFOLIO</text>
+<text x="440" y="78" font-size="10" fill="#79d9b6" text-anchor="middle">kito-portfolio · css</text>
+
+<rect x="90" y="74" width="150" height="44" rx="9" fill="#0d1b16" stroke="#1f6f4a" stroke-width="1.5" class="node" style="animation-delay:0.6s"/>
+<text x="165" y="92" font-size="12.5" fill="#d6ffef" text-anchor="middle">SUB-RECON ★12</text>
+<text x="165" y="108" font-size="10" fill="#79d9b6" text-anchor="middle">crt.sh · dns · ports</text>
+
+<rect x="90" y="158" width="150" height="44" rx="9" fill="#0d1b16" stroke="#1f6f4a" stroke-width="1.5" class="node" style="animation-delay:1.2s"/>
+<text x="165" y="176" font-size="12.5" fill="#d6ffef" text-anchor="middle">VULN-SCAN ★2</text>
+<text x="165" y="192" font-size="10" fill="#79d9b6" text-anchor="middle">owasp · pdf report</text>
+
+<rect x="640" y="74" width="150" height="44" rx="9" fill="#0d1b16" stroke="#1f6f4a" stroke-width="1.5" class="node" style="animation-delay:1.8s"/>
+<text x="715" y="92" font-size="12.5" fill="#d6ffef" text-anchor="middle">HTB-WRITEUP</text>
+<text x="715" y="108" font-size="10" fill="#79d9b6" text-anchor="middle">chaogen solver</text>
+
+<rect x="640" y="158" width="150" height="44" rx="9" fill="#0d1b16" stroke="#1f6f4a" stroke-width="1.5" class="node" style="animation-delay:2.4s"/>
+<text x="715" y="176" font-size="12.5" fill="#d6ffef" text-anchor="middle">KITOIP ★4</text>
+<text x="715" y="192" font-size="10" fill="#79d9b6" text-anchor="middle">ip switcher · ps1</text>
+</g>
+</svg>

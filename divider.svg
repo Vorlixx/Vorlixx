@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="14" viewBox="0 0 880 14">
+<defs>
+<linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#00ff9c" stop-opacity="0"/>
+<stop offset="0.2" stop-color="#00ff9c"/>
+<stop offset="0.8" stop-color="#00e5ff"/>
+<stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+</linearGradient>
+<filter id="dvg" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="1.6" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<style>
+.dart{animation:dart 7s ease-in-out infinite}
+@keyframes dart{0%{transform:translateX(0)}50%{transform:translateX(872px)}100%{transform:translateX(0)}}
+</style>
+</defs>
+<line x1="0" y1="7" x2="880" y2="7" stroke="#123c2e" stroke-width="1"/>
+<rect x="0" y="6" width="880" height="2" fill="url(#dg)" opacity="0.85"/>
+<circle cx="3" cy="7" r="3" fill="#00ff9c" filter="url(#dvg)" class="dart"/>
+</svg>

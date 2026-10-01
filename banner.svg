@@ -1,108 +1,110 @@
-<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3NmYwMTg1Ny1jMTZlLTRjYmQtOTAyMC1jY2Y0Njg4OTJmMTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaE3xafLzEdvUcJaZ+1IF97gAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmYmFkODJjMi03NDAxLTQ3MjItYjQ1Yy05ZTc2NzQ2MGNiOWVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNojIJqxXHDRmc2jYmfSg14AwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg7NK+ncFOZ3FsfD1hcR3IetNDLmm459EYeFIIIZWRK/WkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGZtR6DHAGHIj2mw9hHiHcAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBdBQ1QdRfxoeNFfTZvI5aj+qnz+tOnYjYbwD8lb0w04mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc2ZjAxODU3LWMxNmUtNGNiZC05MDIwLWNjZjQ2ODg5MmYxNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjAwY2UxZjc4LTc5ZGEtNGNlZS1iNmY2LTY2MzEwODRkNWFmZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDs0r6dwU5ncWx8PWFxHch600Muabjn0Rh4UgghlZEr9aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggGcmX+MLG6m8XcaVENh/FLkqRQryd4+eYi/rGiDQYCDyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggTiSX1FQNJmZ6ntZIbKoZjPdRoY7Qy6vsJpHwNRsjYPd0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQI8/T/l6nktqu0BDfQDLCHIODKZmja+bAtbWMyBuIQA2iMeyN4Qj3m4TscFDTFRfaC75mXtdqs75X9dCUFAsok0=</c2pa:manifest></metadata>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0e14"/>
-      <stop offset="100%" stop-color="#111826"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="15%" cy="20%" r="60%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" fill="none" stroke="#1e293b" stroke-width="1" opacity="0.35"/>
-    </pattern>
-    <clipPath id="frame">
-      <rect width="1000" height="260" rx="14"/>
-    </clipPath>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" font-family="ui-monospace,'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace">
+<defs>
+<linearGradient id="bgG" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#04070a"/>
+<stop offset="1" stop-color="#081218"/>
+</linearGradient>
+<radialGradient id="vig" cx="0.5" cy="0.45" r="0.8">
+<stop offset="0.45" stop-color="#000000" stop-opacity="0"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0.5"/>
+</radialGradient>
+<linearGradient id="titleG" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#f2fff9"/>
+<stop offset="1" stop-color="#6ff0c2"/>
+</linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="glowS" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="1.4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<clipPath id="tclip"><rect x="266" y="170" width="0" height="36">
+<animate attributeName="width" values="0;0;478;478;0" keyTimes="0;0.05;0.46;0.9;1" dur="8s" repeatCount="indefinite"/>
+</rect></clipPath>
+<style>
+.rain{animation-name:rain;animation-timing-function:linear;animation-iteration-count:infinite}
+@keyframes rain{from{transform:translateY(-360px)}to{transform:translateY(360px)}}
+.floorh{animation:floor 1.6s linear infinite}
+@keyframes floor{from{transform:translateY(0)}to{transform:translateY(13px)}}
+.scan{animation:scan 5.5s linear infinite}
+@keyframes scan{from{transform:translateY(-6px)}to{transform:translateY(306px)}}
+.band{animation:scan 9s linear infinite}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:0.9}50%{opacity:0.35}}
+.gC{animation:glc 3.1s steps(1) infinite}
+@keyframes glc{0%,88%,100%{transform:translate(-3px,0)}90%{transform:translate(-6px,2px)}93%{transform:translate(-1px,-2px)}96%{transform:translate(-4px,1px)}}
+.gR{animation:glr 4.3s steps(1) infinite}
+@keyframes glr{0%,84%,100%{transform:translate(3px,0)}87%{transform:translate(6px,-2px)}91%{transform:translate(1px,2px)}95%{transform:translate(4px,-1px)}}
+.base{animation:flick 4s steps(1) infinite}
+@keyframes flick{0%,92%,100%{opacity:1}93%{opacity:0.72}95%{opacity:1}97%{opacity:0.86}}
+.cur{animation:cur 1.05s steps(1) infinite}
+@keyframes cur{0%,49%{opacity:1}50%,100%{opacity:0}}
+</style>
+</defs>
+<rect width="1000" height="300" fill="url(#bgG)"/>
 
-  <g clip-path="url(#frame)">
-    <rect width="1000" height="260" fill="url(#bg)"/>
-    <rect width="1000" height="260" fill="url(#grid)"/>
-    <rect width="1000" height="260" fill="url(#glow)"/>
+<g font-size="13" fill="#00ff9c">
+<text x="36" y="-160" opacity="0.16" style="animation:rain 9s linear infinite;animation-delay:-1.2s"><tspan x="36" y="-160">1</tspan><tspan x="36" y="-145">0</tspan><tspan x="36" y="-130">&lt;</tspan><tspan x="36" y="-115">/</tspan><tspan x="36" y="-100">1</tspan><tspan x="36" y="-85">$</tspan><tspan x="36" y="-70">}</tspan><tspan x="36" y="-55">0</tspan><tspan x="36" y="-40">#</tspan><tspan x="36" y="-25">&gt;</tspan></text>
+<text x="118" y="-160" opacity="0.12" style="animation:rain 12s linear infinite;animation-delay:-6s"><tspan x="118" y="-160">0</tspan><tspan x="118" y="-145">1</tspan><tspan x="118" y="-130">{</tspan><tspan x="118" y="-115">&gt;</tspan><tspan x="118" y="-100">;</tspan><tspan x="118" y="-85">1</tspan><tspan x="118" y="-70">/</tspan><tspan x="118" y="-55">%</tspan><tspan x="118" y="-40">0</tspan><tspan x="118" y="-25">1</tspan></text>
+<text x="205" y="-160" opacity="0.20" style="animation:rain 7.5s linear infinite;animation-delay:-3.4s"><tspan x="205" y="-160">&lt;</tspan><tspan x="205" y="-145">#</tspan><tspan x="205" y="-130">1</tspan><tspan x="205" y="-115">}</tspan><tspan x="205" y="-100">0</tspan><tspan x="205" y="-85">$</tspan><tspan x="205" y="-70">&gt;</tspan><tspan x="205" y="-55">1</tspan><tspan x="205" y="-40">0</tspan><tspan x="205" y="-25">;</tspan></text>
+<text x="305" y="-160" opacity="0.14" style="animation:rain 10.5s linear infinite;animation-delay:-8.1s"><tspan x="305" y="-160">1</tspan><tspan x="305" y="-145">%</tspan><tspan x="305" y="-130">0</tspan><tspan x="305" y="-115">&lt;</tspan><tspan x="305" y="-100">~</tspan><tspan x="305" y="-85">1</tspan><tspan x="305" y="-70">}</tspan><tspan x="305" y="-55">#</tspan><tspan x="305" y="-40">0</tspan><tspan x="305" y="-25">/</tspan></text>
+<text x="640" y="-160" opacity="0.18" style="animation:rain 8.2s linear infinite;animation-delay:-2.6s"><tspan x="640" y="-160">&gt;</tspan><tspan x="640" y="-145">0</tspan><tspan x="640" y="-130">1</tspan><tspan x="640" y="-115">;</tspan><tspan x="640" y="-100">{</tspan><tspan x="640" y="-85">$</tspan><tspan x="640" y="-70">1</tspan><tspan x="640" y="-55">&lt;</tspan><tspan x="640" y="-40">0</tspan><tspan x="640" y="-25">#</tspan></text>
+<text x="715" y="-160" opacity="0.12" style="animation:rain 13s linear infinite;animation-delay:-9.5s"><tspan x="715" y="-160">0</tspan><tspan x="715" y="-145">/</tspan><tspan x="715" y="-130">1</tspan><tspan x="715" y="-115">%</tspan><tspan x="715" y="-100">&lt;</tspan><tspan x="715" y="-85">;</tspan><tspan x="715" y="-70">0</tspan><tspan x="715" y="-55">}</tspan><tspan x="715" y="-40">1</tspan><tspan x="715" y="-25">$</tspan></text>
+<text x="815" y="-160" opacity="0.22" style="animation:rain 6.8s linear infinite;animation-delay:-4.9s"><tspan x="815" y="-160">#</tspan><tspan x="815" y="-145">1</tspan><tspan x="815" y="-130">0</tspan><tspan x="815" y="-115">{</tspan><tspan x="815" y="-100">&gt;</tspan><tspan x="815" y="-85">%</tspan><tspan x="815" y="-70">1</tspan><tspan x="815" y="-55">;</tspan><tspan x="815" y="-40">0</tspan><tspan x="815" y="-25">&lt;</tspan></text>
+<text x="930" y="-160" opacity="0.15" style="animation:rain 11s linear infinite;animation-delay:-0.8s"><tspan x="930" y="-160">$</tspan><tspan x="930" y="-145">;</tspan><tspan x="930" y="-130">1</tspan><tspan x="930" y="-115">&lt;</tspan><tspan x="930" y="-100">0</tspan><tspan x="930" y="-85">}</tspan><tspan x="930" y="-70">#</tspan><tspan x="930" y="-55">1</tspan><tspan x="930" y="-40">/</tspan><tspan x="930" y="-25">&gt;</tspan></text>
+</g>
 
-    <!-- header bar -->
-    <rect x="0" y="0" width="1000" height="42" fill="#0d1420"/>
-    <rect x="0" y="41" width="1000" height="1" fill="#1f2937"/>
-    <g font-family="Consolas, 'Courier New', monospace" font-size="12.5" fill="#64748b">
-      <text x="28" y="26">scan_report.log</text>
-    </g>
-    <g transform="translate(0,0)">
-      <circle cx="945" cy="21" r="5" fill="#22d3ee">
-        <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
-      </circle>
-      <text x="958" y="25" font-family="Consolas, monospace" font-size="12" fill="#22d3ee">LIVE</text>
-    </g>
+<g stroke="#00ff9c" stroke-opacity="0.10">
+<line x1="500" y1="196" x2="-240" y2="312"/>
+<line x1="500" y1="196" x2="60" y2="312"/>
+<line x1="500" y1="196" x2="270" y2="312"/>
+<line x1="500" y1="196" x2="405" y2="312"/>
+<line x1="500" y1="196" x2="468" y2="312"/>
+<line x1="500" y1="196" x2="500" y2="312"/>
+<line x1="500" y1="196" x2="532" y2="312"/>
+<line x1="500" y1="196" x2="595" y2="312"/>
+<line x1="500" y1="196" x2="730" y2="312"/>
+<line x1="500" y1="196" x2="940" y2="312"/>
+<line x1="500" y1="196" x2="1240" y2="312"/>
+</g>
+<g stroke="#00ff9c" stroke-opacity="0.16" class="floorh">
+<line x1="-50" y1="210" x2="1050" y2="210"/>
+<line x1="-50" y1="222" x2="1050" y2="222"/>
+<line x1="-50" y1="236" x2="1050" y2="236"/>
+<line x1="-50" y1="252" x2="1050" y2="252"/>
+<line x1="-50" y1="270" x2="1050" y2="270"/>
+<line x1="-50" y1="292" x2="1050" y2="292"/>
+</g>
 
-    <!-- left: identity block -->
-    <g font-family="Consolas, 'Courier New', monospace">
-      <text x="28" y="82" font-size="13" fill="#475569">target ></text>
-      <text x="105" y="82" font-size="13" fill="#e2e8f0" font-weight="bold" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.5s" fill="freeze"/>
-        Kito
-      </text>
+<rect width="1000" height="300" fill="url(#vig)"/>
+<rect y="0" width="1000" height="2.5" fill="#00ff9c" opacity="0.5" filter="url(#glowS)" class="scan"/>
+<rect y="0" width="1000" height="26" fill="#00ff9c" opacity="0.06" class="band"/>
 
-      <text x="28" y="108" font-size="13" fill="#475569">role &#160;&#160;>&#160;</text>
-      <text x="105" y="108" font-size="13" fill="#cbd5e1" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.5s" fill="freeze"/>
-        CyberSecurity Student
-      </text>
+<g stroke="#00ff9c" stroke-width="2" fill="none">
+<path d="M20,46 V20 H48" opacity="0.85"/>
+<path d="M980,46 V20 H952" opacity="0.85"/>
+<path d="M20,254 V280 H48" opacity="0.85"/>
+<path d="M980,254 V280 H952" opacity="0.85"/>
+</g>
 
-      <text x="28" y="134" font-size="13" fill="#475569">focus &#160;>&#160;</text>
-      <text x="105" y="134" font-size="13" fill="#cbd5e1" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.5s" fill="freeze"/>
-        Offensive Security / Pentesting
-      </text>
+<text x="58" y="27" font-size="13" letter-spacing="2" fill="#00ff9c">⬢ CLASSIFIED // OPERATOR DOSSIER</text>
+<text x="946" y="27" font-size="12" text-anchor="end" fill="#79d9b6" opacity="0.9">ID VX-257382783 · REV 3.1</text>
 
-      <text x="28" y="160" font-size="13" fill="#475569">base &#160;&#160;>&#160;</text>
-      <text x="105" y="160" font-size="13" fill="#cbd5e1" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.5s" fill="freeze"/>
-        recon &#183; exploitation &#183; reporting
-      </text>
-    </g>
+<text x="500" y="104" font-size="13" letter-spacing="7" text-anchor="middle" fill="#5ccfe6" opacity="0.95">// OFFENSIVE SECURITY OPERATOR</text>
 
-    <!-- scan progress -->
-    <g transform="translate(28,190)" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.5s" fill="freeze"/>
-      <text x="0" y="0" font-family="Consolas, monospace" font-size="12" fill="#475569">enumerating targets...</text>
-      <rect x="0" y="12" width="360" height="6" rx="3" fill="#1e293b"/>
-      <rect x="0" y="12" width="0" height="6" rx="3" fill="#22d3ee">
-        <animate attributeName="width" from="0" to="360" begin="1.6s" dur="2.4s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
-      </rect>
-      <text x="368" y="18" font-family="Consolas, monospace" font-size="11" fill="#22d3ee" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="3.9s" dur="0.4s" fill="freeze"/>
-        100%
-      </text>
-    </g>
+<text x="500" y="168" font-size="92" font-weight="700" letter-spacing="24" text-anchor="middle" fill="#00e5ff" opacity="0.5" class="gC">KITO</text>
+<text x="500" y="168" font-size="92" font-weight="700" letter-spacing="24" text-anchor="middle" fill="#ff2e63" opacity="0.4" class="gR">KITO</text>
+<text x="500" y="168" font-size="92" font-weight="700" letter-spacing="24" text-anchor="middle" fill="url(#titleG)" filter="url(#glow)" class="base">KITO</text>
 
-    <!-- right: findings panel -->
-    <g transform="translate(640,60)" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.6s" fill="freeze"/>
-      <rect width="332" height="162" rx="10" fill="#0d1420" stroke="#1f2937" stroke-width="1"/>
-      <text x="18" y="28" font-family="Consolas, monospace" font-size="12" fill="#64748b" letter-spacing="1">FOCUS AREAS</text>
-      <line x1="18" y1="38" x2="314" y2="38" stroke="#1f2937"/>
+<g clip-path="url(#tclip)">
+<text x="272" y="196" font-size="17" fill="#d6ffef">&gt; CyberSecurity Student // Offensive Security</text>
+</g>
+<rect x="744" y="183" width="10" height="17" fill="#00ff9c" class="cur"/>
 
-      <g font-family="Consolas, monospace" font-size="12.5">
-        <g transform="translate(18,60)">
-          <circle cx="4" cy="-4" r="3" fill="#22d3ee"/>
-          <text x="16" y="0" fill="#cbd5e1">Attack-surface recon tooling</text>
-        </g>
-        <g transform="translate(18,86)">
-          <circle cx="4" cy="-4" r="3" fill="#22d3ee"/>
-          <text x="16" y="0" fill="#cbd5e1">OWASP-based vuln scanning</text>
-        </g>
-        <g transform="translate(18,112)">
-          <circle cx="4" cy="-4" r="3" fill="#22d3ee"/>
-          <text x="16" y="0" fill="#cbd5e1">Hack The Box write-ups</text>
-        </g>
-        <g transform="translate(18,138)">
-          <circle cx="4" cy="-4" r="3" fill="#facc15"/>
-          <text x="16" y="0" fill="#cbd5e1">Learning: AD &#38; Burp Suite</text>
-        </g>
-      </g>
-    </g>
+<text x="500" y="224" font-size="12" text-anchor="middle" fill="#9ec9b4" opacity="0.6">clearance: student · platform: kali · mindset: root or nothing</text>
 
-    <rect x="0" y="0" width="1000" height="2" fill="#22d3ee" opacity="0.5"/>
-    <rect x="0" y="258" width="1000" height="2" fill="#22d3ee" opacity="0.5"/>
-  </g>
+<circle cx="266" cy="272" r="3.5" fill="#00ff9c" class="dot"/>
+<text x="278" y="276" font-size="12" fill="#00ff9c" opacity="0.8">STATUS: ACTIVE · FOCUS: WEB &amp; NETWORK PENTESTING · LEARNING: GO / AD</text>
 </svg>
